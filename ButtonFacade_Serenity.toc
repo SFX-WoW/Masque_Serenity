@@ -1,0 +1,14 @@
+## Interface: 20400
+
+## Title: ButtonFacade: Serenity
+## Notes: Serenity skins for Button Facade.
+## Version: 2.4.2
+
+## Author: StormFX
+## X-eMail: stormfx@gmail.com
+## X-Credits: JJ Sheets for Button Facade and Sairen for the original Serenity.
+
+## X-Category: Action Bars
+## OptionalDeps: LibButtonFacade, ButtonFacade
+
+Skins.lua
