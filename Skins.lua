@@ -1,4 +1,4 @@
---[[ Serenity for ButtonFacade v2.4.2 ]]
+--[[ Serenity for ButtonFacade ]]
 
 local LibButtonFacade = LibStub("LibButtonFacade",true)
 if not LibButtonFacade then
@@ -78,19 +78,19 @@ LibButtonFacade:AddSkin("Serenity",{
 	HotKey = {
 		Width = 44,
 		Height = 10,
-		OffsetX = -2,
-		OffsetY = 7,
+		OffsetX = -12,
+		OffsetY = 8,
 	},
 	Count = {
 		Width = 44,
 		Height = 10,
-		OffsetX = -2,
-		OffsetY = -7,
+		OffsetX = -12,
+		OffsetY = -6,
 	},
 	Name = {
 		Width = 44,
-		Height = 10,
-		OffsetY = -7,
+		Height = 12,
+		OffsetY = -6,
 	},
 	-- Skin data end.
 
@@ -169,19 +169,19 @@ LibButtonFacade:AddSkin("Serenity: Square",{
 	HotKey = {
 		Width = 40,
 		Height = 10,
-		OffsetX = -2,
-		OffsetY = 7,
+		OffsetX = -6,
+		OffsetY = 6,
 	},
 	Count = {
 		Width = 40,
 		Height = 10,
-		OffsetX = -2,
-		OffsetY = -7,
+		OffsetX = -6,
+		OffsetY = -6,
 	},
 	Name = {
 		Width = 40,
 		Height = 10,
-		OffsetY = -7,
+		OffsetY = -6,
 	},
 	-- Skin data end.
 
