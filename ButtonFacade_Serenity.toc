@@ -1,8 +1,8 @@
 ## Interface: 20400
 
-## Title: ButtonFacade: Serenity
+## Title: ButtonFacade: |cffff8000Serenity|r
 ## Notes: Serenity skins for Button Facade.
-## Version: 2.4.4
+## Version: 2.4.5
 
 ## Author: StormFX
 ## X-eMail: stormfx@gmail.com
