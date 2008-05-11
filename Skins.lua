@@ -12,6 +12,7 @@ LibButtonFacade:AddSkin("Serenity",{
 	Backdrop = {
 		Width = 44,
 		Height = 44,
+		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Backdrop]],
 	},
 	Icon = {
@@ -19,16 +20,11 @@ LibButtonFacade:AddSkin("Serenity",{
 		Height = 26,
 		TexCoords = {0.07,0.93,0.07,0.93},
 	},
-	Border = {
-		Width = 44,
-		Height = 44,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Equip]],
-		BlendMode = "ADD",
-	},
 	Flash = {
 		Width = 44,
 		Height = 44,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Flash]],
+		Color = {1, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Overlay]],
 	},
 	Cooldown = {
 		Width = 26,
@@ -39,21 +35,25 @@ LibButtonFacade:AddSkin("Serenity",{
 		Height = 24,
 		ModelScale = .8,
 	},
-	AutoCastable = {
-		Width = 48,
-		Height = 48,
-		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
-	},
 	Normal = {
 		Width = 44,
 		Height = 44,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Normal]],
 		Static = true,
+		Color = {1, 1, 1, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Normal]],
 	},
 	Pushed = {
 		Width = 44,
 		Height = 44,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Pushed]],
+		Color = {0, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Overlay]],
+	},
+	Border = {
+		Width = 44,
+		Height = 44,
+		BlendMode = "ADD",
+		Color = {0, 1, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Border]],
 	},
 	Disabled = {
 		Hide = true,
@@ -61,19 +61,26 @@ LibButtonFacade:AddSkin("Serenity",{
 	Checked = {
 		Width = 44,
 		Height = 44,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Checked]],
 		BlendMode = "ADD",
+		Color = {0, 0.75, 1, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Border]],
+	},
+	AutoCastable = {
+		Width = 48,
+		Height = 48,
+		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
+	},
+	Highlight = {
+		Width = 44,
+		Height = 44,
+		BlendMode = "ADD",
+		Color = {1, 1, 1, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Highlight]],
 	},
 	Gloss = {
 		Width = 44,
 		Height = 44,
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Gloss]],
-	},
-	Highlight = {
-		Width = 44,
-		Height = 44,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Highlight]],
-		BlendMode = "ADD",
 	},
 	HotKey = {
 		Width = 44,
@@ -103,6 +110,7 @@ LibButtonFacade:AddSkin("Serenity: Square",{
 	Backdrop = {
 		Width = 40,
 		Height = 40,
+		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Backdrop]],
 	},
 	Icon = {
@@ -110,16 +118,11 @@ LibButtonFacade:AddSkin("Serenity: Square",{
 		Height = 26,
 		TexCoords = {0.07,0.93,0.07,0.93},
 	},
-	Border = {
-		Width = 40,
-		Height = 40,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Equip]],
-		BlendMode = "ADD",
-	},
 	Flash = {
 		Width = 40,
 		Height = 40,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Flash]],
+		Color = {1, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Overlay]],
 	},
 	Cooldown = {
 		Width = 26,
@@ -130,21 +133,25 @@ LibButtonFacade:AddSkin("Serenity: Square",{
 		Height = 28,
 		ModelScale = .9,
 	},
-	AutoCastable = {
-		Width = 48,
-		Height = 48,
-		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
-	},
 	Normal = {
 		Width = 40,
 		Height = 40,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Normal]],
 		Static = true,
+		Color = {1, 1, 1, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Normal]],
 	},
 	Pushed = {
 		Width = 40,
 		Height = 40,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Pushed]],
+		Color = {0, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Overlay]],
+	},
+	Border = {
+		Width = 40,
+		Height = 40,
+		BlendMode = "ADD",
+		Color = {0, 1, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Border]],
 	},
 	Disabled = {
 		Hide = true,
@@ -152,19 +159,26 @@ LibButtonFacade:AddSkin("Serenity: Square",{
 	Checked = {
 		Width = 40,
 		Height = 40,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Checked]],
 		BlendMode = "ADD",
+		Color = {0, 0.75, 1, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Border]],
+	},
+	AutoCastable = {
+		Width = 48,
+		Height = 48,
+		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
+	},
+	Highlight = {
+		Width = 40,
+		Height = 40,
+		BlendMode = "ADD",
+		Color = {1, 1, 1, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Highlight]],
 	},
 	Gloss = {
 		Width = 40,
 		Height = 40,
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Gloss]],
-	},
-	Highlight = {
-		Width = 40,
-		Height = 40,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Highlight]],
-		BlendMode = "ADD",
 	},
 	HotKey = {
 		Width = 40,
