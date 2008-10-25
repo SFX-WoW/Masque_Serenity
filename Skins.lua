@@ -33,7 +33,9 @@ LibButtonFacade:AddSkin("Serenity",{
 	AutoCast = {
 		Width = 24,
 		Height = 24,
-		ModelScale = .8,
+		OffsetX = 1,
+		OffsetY = -1,
+		AboveNormal = true;
 	},
 	Normal = {
 		Width = 44,
@@ -129,9 +131,11 @@ LibButtonFacade:AddSkin("Serenity: Square",{
 		Height = 26,
 	},
 	AutoCast = {
-		Width = 28,
-		Height = 28,
-		ModelScale = .9,
+		Width = 26,
+		Height = 26,
+		OffsetX = 1,
+		OffsetY = -1,
+		AboveNormal = true;
 	},
 	Normal = {
 		Width = 40,
