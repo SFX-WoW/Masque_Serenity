@@ -1,16 +1,12 @@
 ## Interface: 30000
-
 ## Title: ButtonFacade: |cffff8000Serenity|r
+## Version: 3.0.@project-revision@
 ## Notes: Serenity skins for Button Facade.
-## Version: 3.0.2
-
 ## Author: StormFX
 ## X-eMail: stormfx@gmail.com
 ## X-Website: http://www.wowace.com
-## X-RelSite-WoWI: 8875
-## X-Credits: JJSheets, Sairen
-
 ## X-Category: Action Bars
+## X-Credits: JJ Sheets, Sairen
 ## OptionalDeps: LibButtonFacade, ButtonFacade
 
 Skins.lua
