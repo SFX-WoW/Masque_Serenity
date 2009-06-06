@@ -5,8 +5,9 @@
 ## Author: StormFX
 ## X-eMail: stormfx@gmail.com
 ## X-Website: http://www.wowace.com
-## X-Category: Action Bars
-## X-Credits: JJ Sheets, Sairen
-## OptionalDeps: LibButtonFacade, ButtonFacade
+## X-Category: Interface Enhancements
+## X-Credits: Sairen
+## X-WoWI-ID: 8875
+## Dependencies: ButtonFacade
 
 Skins.lua
