@@ -1,7 +1,8 @@
-## Interface: 30200
+## Interface: 30300
 ## Title: ButtonFacade: |cffff8000Serenity|r
 ## Version: 3.2.@project-revision@
-## Notes: Serenity skins for Button Facade.
+## Notes: Serenity skins for ButtonFacade.
+## Notes-frFR: Skin Serenity pour ButtonFacade.
 ## Author: StormFX
 ## X-eMail: stormfx@gmail.com
 ## X-Website: http://www.wowace.com
