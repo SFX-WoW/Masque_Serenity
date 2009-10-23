@@ -5,6 +5,7 @@ Release History
 - Update ToC to 3.3.
 - Add frFR Notes entry.
 - Change the format/filename of the change log.
+- License update.
 
 3.2.50
 
