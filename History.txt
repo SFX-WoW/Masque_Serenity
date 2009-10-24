@@ -1,9 +1,9 @@
 Release History
 
-3.3.55
+3.3.56
 
 - Update ToC to 3.3.
-- Add frFR Notes entry.
+- Localization update.
 - Change the format/filename of the change log.
 - License update.
 
