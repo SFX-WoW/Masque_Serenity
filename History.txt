@@ -1,5 +1,9 @@
 Release History
 
+3.3.58
+
+- Equip border color.
+
 3.3.56
 
 - Update ToC to 3.3.

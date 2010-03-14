@@ -54,7 +54,7 @@ LBF:AddSkin("Serenity", {
 		Width = 44,
 		Height = 44,
 		BlendMode = "ADD",
-		--Color = {0, 1, 0, 1},
+		Color = {0, 1, 0, 0.3},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Border]],
 	},
 	Disabled = {
@@ -170,7 +170,7 @@ LBF:AddSkin("Serenity: Square", {
 		Width = 40,
 		Height = 40,
 		BlendMode = "ADD",
-		--Color = {0, 1, 0, 1},
+		Color = {0, 1, 0, 0.3},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Border]],
 	},
 	Disabled = {
