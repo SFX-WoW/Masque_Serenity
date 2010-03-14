@@ -1,14 +1,10 @@
 --[[ Serenity @project-version@ ]]
 
 local LBF = LibStub("LibButtonFacade", true)
-if not LBF then
-	return
-end
+if not LBF then return end
 
 -- Serenity
 LBF:AddSkin("Serenity", {
-
-	-- Skin data start.
 	Backdrop = {
 		Width = 44,
 		Height = 44,
@@ -101,30 +97,22 @@ LBF:AddSkin("Serenity", {
 		Height = 12,
 		OffsetY = -6,
 	},
-	-- Skin data end.
-
-}, true)
+})
 
 -- Serenity Redux
 LBF:AddSkin("Serenity Redux", {
-
-	-- Skin data start.
 	Template = "Serenity",
 	Border = {
 		Width = 44,
 		Height = 44,
 		BlendMode = "ADD",
-		--Color = {0, 1, 0, 1},
+		Color = {0, 1, 0, 0.3},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Highlight]],
 	},
-	-- Skin data end.
-
-}, true)
+})
 
 -- Serenity: Square
 LBF:AddSkin("Serenity: Square", {
-
-	-- Skin data start.
 	Backdrop = {
 		Width = 40,
 		Height = 40,
@@ -217,22 +205,16 @@ LBF:AddSkin("Serenity: Square", {
 		Height = 10,
 		OffsetY = -6,
 	},
-	-- Skin data end.
-
-}, true)
+})
 
 -- Serenity Redux
 LBF:AddSkin("Serenity Redux: Square", {
-
-	-- Skin data start.
 	Template = "Serenity: Square",
 	Border = {
 		Width = 40,
 		Height = 40,
 		BlendMode = "ADD",
-		--Color = {0, 1, 0, 1},
+		Color = {0, 1, 0, 0.3},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Highlight]],
 	},
-	-- Skin data end.
-
-}, true)
+})
