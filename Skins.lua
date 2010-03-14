@@ -96,7 +96,7 @@ LBF:AddSkin("Serenity", {
 		Height = 12,
 		OffsetY = -6,
 	},
-})
+}, true)
 
 -- Serenity Redux
 LBF:AddSkin("Serenity Redux", {
@@ -108,7 +108,7 @@ LBF:AddSkin("Serenity Redux", {
 		Color = {0, 1, 0, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Highlight]],
 	},
-})
+}, true)
 
 -- Serenity: Square
 LBF:AddSkin("Serenity: Square", {
@@ -203,7 +203,7 @@ LBF:AddSkin("Serenity: Square", {
 		Height = 10,
 		OffsetY = -6,
 	},
-})
+}, true)
 
 -- Serenity Redux
 LBF:AddSkin("Serenity Redux: Square", {
@@ -215,4 +215,4 @@ LBF:AddSkin("Serenity Redux: Square", {
 		Color = {0, 1, 0, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Highlight]],
 	},
-})
+}, true)
