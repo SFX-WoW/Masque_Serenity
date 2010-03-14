@@ -16,6 +16,12 @@ LBF:AddSkin("Serenity", {
 		Height = 26,
 		TexCoords = {0.07,0.93,0.07,0.93},
 	},
+	Pushed = {
+		Width = 44,
+		Height = 44,
+		Color = {0, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Overlay]],
+	},
 	Flash = {
 		Width = 44,
 		Height = 44,
@@ -26,32 +32,12 @@ LBF:AddSkin("Serenity", {
 		Width = 26,
 		Height = 26,
 	},
-	AutoCast = {
-		Width = 24,
-		Height = 24,
-		OffsetX = 1,
-		OffsetY = -1,
-		AboveNormal = true,
-	},
 	Normal = {
 		Width = 44,
 		Height = 44,
 		Static = true,
 		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Normal]],
-	},
-	Pushed = {
-		Width = 44,
-		Height = 44,
-		Color = {0, 0, 0, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Overlay]],
-	},
-	Border = {
-		Width = 44,
-		Height = 44,
-		BlendMode = "ADD",
-		Color = {0, 1, 0, 0.3},
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Border]],
 	},
 	Disabled = {
 		Hide = true,
@@ -60,13 +46,15 @@ LBF:AddSkin("Serenity", {
 		Width = 44,
 		Height = 44,
 		BlendMode = "ADD",
-		Color = {0, 0.75, 1, 1},
+		Color = {0, 0.8, 1, 0.8},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Border]],
 	},
-	AutoCastable = {
-		Width = 48,
-		Height = 48,
-		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
+	Border = {
+		Width = 44,
+		Height = 44,
+		BlendMode = "ADD",
+		Color = {0, 1, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Border]],
 	},
 	Highlight = {
 		Width = 44,
@@ -74,6 +62,17 @@ LBF:AddSkin("Serenity", {
 		BlendMode = "ADD",
 		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Highlight]],
+	},
+	AutoCast = {
+		Width = 24,
+		Height = 24,
+		OffsetX = 1,
+		OffsetY = -1,
+	},
+	AutoCastable = {
+		Width = 48,
+		Height = 48,
+		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 	},
 	Gloss = {
 		Width = 44,
@@ -106,7 +105,7 @@ LBF:AddSkin("Serenity Redux", {
 		Width = 44,
 		Height = 44,
 		BlendMode = "ADD",
-		Color = {0, 1, 0, 0.3},
+		Color = {0, 1, 0, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Highlight]],
 	},
 })
@@ -124,6 +123,12 @@ LBF:AddSkin("Serenity: Square", {
 		Height = 26,
 		TexCoords = {0.07,0.93,0.07,0.93},
 	},
+	Pushed = {
+		Width = 40,
+		Height = 40,
+		Color = {0, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Overlay]],
+	},
 	Flash = {
 		Width = 40,
 		Height = 40,
@@ -134,32 +139,12 @@ LBF:AddSkin("Serenity: Square", {
 		Width = 26,
 		Height = 26,
 	},
-	AutoCast = {
-		Width = 26,
-		Height = 26,
-		OffsetX = 1,
-		OffsetY = -1,
-		AboveNormal = true,
-	},
 	Normal = {
 		Width = 40,
 		Height = 40,
 		Static = true,
 		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Normal]],
-	},
-	Pushed = {
-		Width = 40,
-		Height = 40,
-		Color = {0, 0, 0, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Overlay]],
-	},
-	Border = {
-		Width = 40,
-		Height = 40,
-		BlendMode = "ADD",
-		Color = {0, 1, 0, 0.3},
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Border]],
 	},
 	Disabled = {
 		Hide = true,
@@ -168,13 +153,15 @@ LBF:AddSkin("Serenity: Square", {
 		Width = 40,
 		Height = 40,
 		BlendMode = "ADD",
-		Color = {0, 0.75, 1, 1},
+		Color = {0, 0.8, 1, 0.8},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Border]],
 	},
-	AutoCastable = {
-		Width = 48,
-		Height = 48,
-		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
+	Border = {
+		Width = 40,
+		Height = 40,
+		BlendMode = "ADD",
+		Color = {0, 1, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Border]],
 	},
 	Highlight = {
 		Width = 40,
@@ -182,6 +169,17 @@ LBF:AddSkin("Serenity: Square", {
 		BlendMode = "ADD",
 		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Highlight]],
+	},
+	AutoCast = {
+		Width = 26,
+		Height = 26,
+		OffsetX = 1,
+		OffsetY = -1,
+	},
+	AutoCastable = {
+		Width = 48,
+		Height = 48,
+		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 	},
 	Gloss = {
 		Width = 40,
@@ -214,7 +212,7 @@ LBF:AddSkin("Serenity Redux: Square", {
 		Width = 40,
 		Height = 40,
 		BlendMode = "ADD",
-		Color = {0, 1, 0, 0.3},
+		Color = {0, 1, 0, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Highlight]],
 	},
 })
