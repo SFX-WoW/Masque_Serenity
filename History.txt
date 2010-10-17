@@ -1,5 +1,10 @@
 Release History
 
+4.0.63
+
+- Update ToC to 4000.
+- HotKey tweaks.
+
 3.3.62
 
 - Removed the border color.

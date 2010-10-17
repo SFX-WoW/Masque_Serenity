@@ -8,19 +8,12 @@ LBF:AddSkin("Serenity", {
 	Backdrop = {
 		Width = 44,
 		Height = 44,
-		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Backdrop]],
 	},
 	Icon = {
 		Width = 26,
 		Height = 26,
 		TexCoords = {0.07,0.93,0.07,0.93},
-	},
-	Pushed = {
-		Width = 44,
-		Height = 44,
-		Color = {0, 0, 0, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Overlay]],
 	},
 	Flash = {
 		Width = 44,
@@ -32,11 +25,16 @@ LBF:AddSkin("Serenity", {
 		Width = 26,
 		Height = 26,
 	},
+	Pushed = {
+		Width = 44,
+		Height = 44,
+		Color = {0, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Overlay]],
+	},
 	Normal = {
 		Width = 44,
 		Height = 44,
 		Static = true,
-		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Normal]],
 	},
 	Disabled = {
@@ -55,45 +53,44 @@ LBF:AddSkin("Serenity", {
 		BlendMode = "ADD",
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Border]],
 	},
-	Highlight = {
+	Gloss = {
 		Width = 44,
 		Height = 44,
-		BlendMode = "ADD",
-		Color = {1, 1, 1, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Highlight]],
-	},
-	AutoCast = {
-		Width = 24,
-		Height = 24,
-		OffsetX = 1,
-		OffsetY = -1,
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Gloss]],
 	},
 	AutoCastable = {
 		Width = 48,
 		Height = 48,
 		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 	},
-	Gloss = {
+	Highlight = {
 		Width = 44,
 		Height = 44,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Gloss]],
-	},
-	HotKey = {
-		Width = 44,
-		Height = 10,
-		OffsetX = -12,
-		OffsetY = 8,
-	},
-	Count = {
-		Width = 44,
-		Height = 10,
-		OffsetX = -12,
-		OffsetY = -6,
+		BlendMode = "ADD",
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Round\Highlight]],
 	},
 	Name = {
 		Width = 44,
 		Height = 12,
-		OffsetY = -6,
+		OffsetY = -9,
+	},
+	Count = {
+		Width = 44,
+		Height = 10,
+		OffsetX = -6,
+		OffsetY = -9,
+	},
+	HotKey = {
+		Width = 44,
+		Height = 10,
+		OffsetX = -6,
+		OffsetY = 9,
+	},
+	AutoCast = {
+		Width = 24,
+		Height = 24,
+		OffsetX = 1,
+		OffsetY = -1,
 	},
 }, true)
 
@@ -114,19 +111,12 @@ LBF:AddSkin("Serenity: Square", {
 	Backdrop = {
 		Width = 40,
 		Height = 40,
-		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Backdrop]],
 	},
 	Icon = {
 		Width = 26,
 		Height = 26,
 		TexCoords = {0.07,0.93,0.07,0.93},
-	},
-	Pushed = {
-		Width = 40,
-		Height = 40,
-		Color = {0, 0, 0, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Overlay]],
 	},
 	Flash = {
 		Width = 40,
@@ -138,11 +128,16 @@ LBF:AddSkin("Serenity: Square", {
 		Width = 26,
 		Height = 26,
 	},
+	Pushed = {
+		Width = 40,
+		Height = 40,
+		Color = {0, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Overlay]],
+	},
 	Normal = {
 		Width = 40,
 		Height = 40,
 		Static = true,
-		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Normal]],
 	},
 	Disabled = {
@@ -161,34 +156,26 @@ LBF:AddSkin("Serenity: Square", {
 		BlendMode = "ADD",
 		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Border]],
 	},
-	Highlight = {
+	Gloss = {
 		Width = 40,
 		Height = 40,
-		BlendMode = "ADD",
-		Color = {1, 1, 1, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Highlight]],
-	},
-	AutoCast = {
-		Width = 26,
-		Height = 26,
-		OffsetX = 1,
-		OffsetY = -1,
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Gloss]],
 	},
 	AutoCastable = {
 		Width = 48,
 		Height = 48,
 		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 	},
-	Gloss = {
+	Highlight = {
 		Width = 40,
 		Height = 40,
-		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Gloss]],
+		BlendMode = "ADD",
+		Texture = [[Interface\AddOns\ButtonFacade_Serenity\Textures\Square\Highlight]],
 	},
-	HotKey = {
+	Name = {
 		Width = 40,
 		Height = 10,
-		OffsetX = -6,
-		OffsetY = 6,
+		OffsetY = -6,
 	},
 	Count = {
 		Width = 40,
@@ -196,10 +183,17 @@ LBF:AddSkin("Serenity: Square", {
 		OffsetX = -6,
 		OffsetY = -6,
 	},
-	Name = {
+	HotKey = {
 		Width = 40,
 		Height = 10,
-		OffsetY = -6,
+		OffsetX = -6,
+		OffsetY = 6,
+	},
+	AutoCast = {
+		Width = 26,
+		Height = 26,
+		OffsetX = 1,
+		OffsetY = -1,
 	},
 }, true)
 
