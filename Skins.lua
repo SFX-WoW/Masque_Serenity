@@ -5,6 +5,7 @@ if not LBF then return end
 
 -- Serenity
 LBF:AddSkin("Serenity", {
+	LBF_Version = 40000,
 	Backdrop = {
 		Width = 44,
 		Height = 44,
@@ -72,19 +73,17 @@ LBF:AddSkin("Serenity", {
 	Name = {
 		Width = 44,
 		Height = 12,
-		OffsetY = -9,
 	},
 	Count = {
 		Width = 44,
 		Height = 10,
-		OffsetX = -6,
-		OffsetY = -9,
+		FontSize = 13,
 	},
 	HotKey = {
 		Width = 44,
 		Height = 10,
-		OffsetX = -6,
-		OffsetY = 9,
+		OffsetX = -8,
+		OffsetY = -3,
 	},
 	AutoCast = {
 		Width = 24,
@@ -108,6 +107,7 @@ LBF:AddSkin("Serenity Redux", {
 
 -- Serenity: Square
 LBF:AddSkin("Serenity: Square", {
+	LBF_Version = 40000,
 	Backdrop = {
 		Width = 40,
 		Height = 40,
@@ -175,19 +175,20 @@ LBF:AddSkin("Serenity: Square", {
 	Name = {
 		Width = 40,
 		Height = 10,
-		OffsetY = -6,
+		OffsetY = 6,
 	},
 	Count = {
 		Width = 40,
 		Height = 10,
-		OffsetX = -6,
-		OffsetY = -6,
+		OffsetX = -4,
+		OffsetY = 5,
+		FontSize = 13,
 	},
 	HotKey = {
 		Width = 40,
 		Height = 10,
-		OffsetX = -6,
-		OffsetY = 6,
+		OffsetX = -7,
+		OffsetY = -7,
 	},
 	AutoCast = {
 		Width = 26,
@@ -198,7 +199,7 @@ LBF:AddSkin("Serenity: Square", {
 }, true)
 
 -- Serenity Redux
-LBF:AddSkin("Serenity Redux: Square", {
+LBF:AddSkin("Serenity: Square Redux", {
 	Template = "Serenity: Square",
 	Border = {
 		Width = 40,
