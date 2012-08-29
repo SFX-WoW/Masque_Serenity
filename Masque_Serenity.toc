@@ -1,6 +1,6 @@
-## Interface: 40300
+## Interface: 50001
 ## Title: Masque: |cffff8000Serenity|r
-## Version: 4.3.@project-revision@
+## Version: 5.0.@project-revision@
 ## Author: StormFX
 ## Notes: Serenity skins for Masque.
 ## Notes-zhTW: Masque的Serenity皮膚。
