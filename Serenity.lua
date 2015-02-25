@@ -15,9 +15,9 @@ if not MSQ then return end
 -- Serenity
 MSQ:AddSkin("Serenity", {
 	Author = "StormFX",
-	Version = "6.0.0",
+	Version = "6.1.0",
 	Shape = "Circle",
-	Masque_Version = 60000,
+	Masque_Version = 60100,
 	Backdrop = {
 		Width = 44,
 		Height = 44,
@@ -121,9 +121,9 @@ MSQ:AddSkin("Serenity Redux", {
 -- Serenity: Square
 MSQ:AddSkin("Serenity: Square", {
 	Author = "StormFX",
-	Version = "5.4.@project-revision@",
+	Version = "6.1.0",
 	Shape = "Square",
-	Masque_Version = 40300,
+	Masque_Version = 60100,
 	Backdrop = {
 		Width = 40,
 		Height = 40,
