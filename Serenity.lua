@@ -1,12 +1,13 @@
 --[[
+
 	This file is part of 'Masque: Serenity', an add-on for World of Warcraft. For license information,
 	please see the included License.txt file.
 
-	* File.....: Serenity.lua
-	* Revision.: @file-revision@
-	* Author...: StormFX
+	* File...: Serenity.lua
+	* Date...: @file-date-iso@
+	* Hash...: @file-abbreviated-hash@
+	* Author.: StormFX
 
-	Serenity Skins
 ]]
 
 local MSQ = LibStub("Masque", true)
@@ -15,7 +16,7 @@ if not MSQ then return end
 -- Serenity
 MSQ:AddSkin("Serenity", {
 	Author = "StormFX",
-	Version = "6.2.0",
+	Version = "@project-version@",
 	Shape = "Circle",
 	Masque_Version = 60200,
 	Backdrop = {
@@ -35,6 +36,10 @@ MSQ:AddSkin("Serenity", {
 		Texture = [[Interface\AddOns\Masque_Serenity\Textures\Round\Overlay]],
 	},
 	Cooldown = {
+		Width = 26,
+		Height = 26,
+	},
+	ChargeCooldown = {
 		Width = 26,
 		Height = 26,
 	},
@@ -121,7 +126,7 @@ MSQ:AddSkin("Serenity Redux", {
 -- Serenity: Square
 MSQ:AddSkin("Serenity: Square", {
 	Author = "StormFX",
-	Version = "6.2.0",
+	Version = "@project-version@",
 	Shape = "Square",
 	Masque_Version = 60200,
 	Backdrop = {
@@ -143,6 +148,10 @@ MSQ:AddSkin("Serenity: Square", {
 	Cooldown = {
 		Width = 26,
 		Height = 26,
+	},
+	ChargeCooldown = {
+		Width = 24,
+		Height = 24,
 	},
 	Pushed = {
 		Width = 40,
@@ -216,7 +225,7 @@ MSQ:AddSkin("Serenity: Square", {
 	},
 }, true)
 
--- Serenity Redux
+-- Serenity: Square Redux
 MSQ:AddSkin("Serenity: Square Redux", {
 	Template = "Serenity: Square",
 	Border = {
