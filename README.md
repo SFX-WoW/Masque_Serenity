@@ -36,4 +36,4 @@ Special thanks to [Sairen](http://www.wowace.com/profiles/sairen2) for the origi
 
 ### Feedback ###
 
-For bug reports and suggestions, please use the [ticket system](https://github.com/StormFX/Masque_Serenity/issues) on GitHub.
+For bug reports and suggestions, please use the [ticket system](https://github.com/stormfx/masque_serenity/issues) on GitHub.
