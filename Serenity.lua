@@ -104,7 +104,7 @@ MSQ:AddSkin("Serenity", {
 		Width = 44,
 		Height = 10,
 	},
-	AutoCast = {
+	Shine = {
 		Width = 24,
 		Height = 24,
 		OffsetX = 1,
@@ -217,7 +217,7 @@ MSQ:AddSkin("Serenity: Square", {
 		Width = 40,
 		Height = 10,
 	},
-	AutoCast = {
+	Shine = {
 		Width = 26,
 		Height = 26,
 		OffsetX = 1,
