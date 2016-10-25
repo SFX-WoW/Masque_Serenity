@@ -1,10 +1,3 @@
-### 7.0.0 ###
+### 7.1.0 ###
 
-- ToC to 70000.
-- Update version.
-- Rename "Autocast" to "Shine".
-
-### 6.2.2 ###
-
-- Fix links in Readme.
-- Update Changelog.
+- ToC to 70100.
