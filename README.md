@@ -1,38 +1,38 @@
 ### About ###
 
-*Serenity* is an add-on for [World of Warcraft](http://us.battle.net/wow) that adds a set of skins for [Masque](http://www.wowace.com/addons/masque). This set is a conversion from the original *Serenity* plug-in for *cyCircled*.
+_Serenity_ is an add-on for [World of Warcraft](https://worldofwarcraft.com "World of Warcraft Website") that adds a set of skins for [Masque][].
 
-**Note:** You *must* have [Masque](http://www.wowace.com/addons/masque) installed to use this add-on.
+_**Note:** You must have [Masque][] installed to use this add-on._
 
 ### Skins ###
 
 This skin set contains the following skins:
 
 - Serenity
-- Serenity Redux¹
-- Serenity: Square
-- Serenity: Square Redux¹
-
-¹ *These skins have equip-colored borders.*
+- Serenity - Square
+- Serenity Redux
+- Serenity Redux - Square
 
 ### Installation ###
 
 Install the package through your preferred add-on manager. You can also install the add-on manually using the following steps:
 
 1. Download the package from one of the following sites:
-    - [Curse](http://www.curse.com/addons/wow/masque_serenity)
-    - [WoW Ace](http://www.wowace.com/addons/masque_serenity)
-    - [WoW Interface](http://www.wowinterface.com/downloads/info8875)
+    - [Curse](https://mods.curse.com/addons/wow/masque-serenity "Download from Curse")
+    - [WoW Ace](https://www.wowace.com/projects/masque-serenity "Download from WoW Ace")
+    - [WoW Interface](http://www.wowinterface.com/downloads/info8875 "Download from WoW Interface")  
 2. Extract the package to your **World of Warcraft\Interface\AddOns** directory.
 
 ### Links ###
 
-- [Masque Project Page](http://www.wowace.com/addons/masque)
-- [Masque Facebook Page](https://www.facebook.com/masqueui)
+- [Get More Skins](https://github.com/stormfx/masque/wiki/skin-list "Masque Skin List")
+- [Masque Project Page][Masque]
+- [Masque Facebook Page](https://www.facebook.com/masqueui "Masque on Facebook")
+- [Masque Wiki](https://github.com/stormfx/masque/wiki "Masque Wiki")
 
 ### Credits ###
 
-Special thanks to [Sairen](http://www.wowace.com/profiles/sairen2) for the original *Serenity* skin.
+- [Sairen](http://www.wowace.com/profiles/sairen2) for the original _Serenity_ skin.
 
 ### Feedback ###
 
