@@ -4,8 +4,6 @@
 	please see the included License.txt file.
 
 	* File...: Serenity.lua
-	* Date...: @file-date-iso@
-	* Hash...: @file-abbreviated-hash@
 	* Author.: StormFX
 
 ]]
@@ -13,12 +11,15 @@
 local MSQ = LibStub("Masque", true)
 if not MSQ then return end
 
+local AddOn, _ = ...
+local Version = GetAddOnMetadata(AddOn, "Version")
+
 -- Serenity
 MSQ:AddSkin("Serenity", {
 	Author = "StormFX",
-	Version = "@project-version@",
+	Version = Version,
 	Shape = "Circle",
-	Masque_Version = 60200,
+	Masque_Version = 70200,
 	Backdrop = {
 		Width = 44,
 		Height = 44,
@@ -123,12 +124,12 @@ MSQ:AddSkin("Serenity Redux", {
 	},
 }, true)
 
--- Serenity: Square
-MSQ:AddSkin("Serenity: Square", {
+-- Serenity - Square
+MSQ:AddSkin("Serenity - Square", {
 	Author = "StormFX",
-	Version = "@project-version@",
+	Version = Version,
 	Shape = "Square",
-	Masque_Version = 60200,
+	Masque_Version = 70200,
 	Backdrop = {
 		Width = 40,
 		Height = 40,
@@ -225,8 +226,8 @@ MSQ:AddSkin("Serenity: Square", {
 	},
 }, true)
 
--- Serenity: Square Redux
-MSQ:AddSkin("Serenity: Square Redux", {
+-- Serenity Redux - Square
+MSQ:AddSkin("Serenity Redux - Square", {
 	Template = "Serenity: Square",
 	Border = {
 		Width = 40,
