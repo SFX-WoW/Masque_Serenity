@@ -32,8 +32,10 @@ Install the package through your preferred add-on manager. You can also install 
 
 ### Credits ###
 
-- [Sairen](http://www.wowace.com/profiles/sairen2) for the original _Serenity_ skin.
+- [Sairen](https://www.wowace.com/members/sairen2) for the original _Serenity_ skin.
 
 ### Feedback ###
 
 For bug reports and suggestions, please use the [ticket system](https://github.com/stormfx/masque_serenity/issues) on GitHub.
+
+[Masque]: https://www.wowace.com/projects/masque (Masque Project Page)
