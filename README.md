@@ -2,7 +2,7 @@
 
 _Serenity_ is an add-on for [World of Warcraft](https://worldofwarcraft.com "World of Warcraft Website") that adds a set of skins for [Masque][].
 
-_**Note:** You must have [Masque][] installed to use this add-on._
+_**Note:** You must have [Masque][] installed to use this skin._
 
 ### Skins ###
 
@@ -18,9 +18,9 @@ This skin set contains the following skins:
 Install the package through your preferred add-on manager. You can also install the add-on manually using the following steps:
 
 1. Download the package from one of the following sites:
-    - [Curse](https://mods.curse.com/addons/wow/masque-serenity "Download from Curse")
-    - [WoW Ace](https://www.wowace.com/projects/masque-serenity "Download from WoW Ace")
-    - [WoW Interface](http://www.wowinterface.com/downloads/info8875 "Download from WoW Interface")  
+	- [Curse](https://mods.curse.com/addons/wow/masque-serenity "Download from Curse")
+	- [WoW Ace](https://www.wowace.com/projects/masque-serenity "Download from WoW Ace")
+	- [WoW Interface](http://www.wowinterface.com/downloads/info8875 "Download from WoW Interface")  
 2. Extract the package to your **World of Warcraft\Interface\AddOns** directory.
 
 ### Links ###
