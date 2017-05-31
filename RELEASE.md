@@ -1,5 +1,8 @@
 ### 7.2.1 ###
 
-- Masque version update.
-- Update ReadMe.
-- Update locales.
+- Added support for Equipped and Cooldown colors.
+	- _These features require Masque 7.2.1 or later._
+- Updated a few textures to support transparency.
+- Updated Masque_Version.
+- Updated ReadMe.md.
+- Updated locales.
