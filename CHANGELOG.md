@@ -1,10 +1,14 @@
+### 7.3.0 ###
+
+- ToC to 70300.
+
 ### 7.2.1 ###
 
-- Add support for Equipped and Cooldown colors.
-- Update the Overlay textures to support transparency.
-- Update Masque_Version.
-- Update ReadMe.
-- Update locales.
+- Added support for Equipped and Cooldown colors.
+- Updated the Overlay textures to support transparency.
+- Updated Masque_Version.
+- Updated ReadMe.
+- Updated Locales.
 
 ### 7.2.0 ###
 
@@ -17,20 +21,18 @@
 ### 7.0.0 ###
 
 - ToC to 70000.
-- Update version.
-- Rename "Autocast" to "Shine".
+- Renamed Autocast to Shine.
 
 ### 6.2.2 ###
 
-- Fix links in Readme.
-- Update Changelog.
+- Fixed links in Readme.
 
 ### 6.2.1 ###
 
 - SVN to Git conversion.
 - Add ChargeCooldown.
-- Update Changelog, License and Readme.
-- Update .pkgmeta
+- Updated License and Readme.
+- Updated .pkgmeta
 
 ### 6.2.0 ###
 
@@ -71,23 +73,23 @@
 ### 4.2.70 ###
 
 - Renamed to Masque_Serenity.
-- Update to Masque's API.
+- Updated to Masque's API.
 - Localization update.
 
 ### 4.0.65 ###
 
-- Update for new LBF features.
+- Updated for new LBF features.
 
 ### 4.0.63 ###
 
 - ToC to 40000.
-- Remove Border color.
+- Removed Border color.
 
 ### 3.3.56 ###
 
 - ToC to 30300.
 - Localization update.
-- Update License and Changelog.
+- Updated License.
 
 ### 3.2.50 ###
 
@@ -95,9 +97,9 @@
 
 ### 3.1.41 ###
 
-- Update License.
+- Updated License.
 - Add X-WoWI-ID.
-- Update X-Category
+- Updated X-Category
 
 ### 3.1.39 ###
 
@@ -109,13 +111,13 @@
 
 ### 3.0.34 ###
 
-- Add two version with equip-colored borders.
-- Fix a typo.
-- Fix the Highlight texture for Squared.
+- Added two version with equip-colored borders.
+- Fixed a typo.
+- Fixed the Highlight texture for Squared.
 
 ### 3.0.22 ###
 
-- Adjust Autocast.
+- Adjusted Autocast.
 
 ### 3.0.2 ###
 
