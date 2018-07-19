@@ -1,6 +1,6 @@
-## Interface: 70300
+## Interface: 80000
 ## Title: Masque: |cffff8000Serenity|r
-## Version: 7.3.0
+## Version: 8.0.0
 ## Author: StormFX
 ## Dependencies: Masque
 ## Notes: Serenity skins for Masque.
@@ -8,6 +8,7 @@
 ## Notes-esES: Skin Serenity para Masque.
 ## Notes-esMX: Skin Serenity para Masque.
 ## Notes-itIT: Skin Serenity per Masque.
+## Notes-ruRU: Скин Serenity для Masque.
 ## Notes-zhTW: Masque的Serenity皮膚。
 ## X-Website: https://www.wowace.com/projects/masque-serenity
 ## X-Category: Interface Enhancements
