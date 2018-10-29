@@ -43,4 +43,4 @@ For bug reports and suggestions, please use the [issue system](https://github.co
 
 If you would like to help translate _Serenity_, please use the [localization system](https://www.wowace.com/projects/masque-serenity/localization "Translate on WoW Ace") on WoW Ace or [contribute directly](https://github.com/stormfx/masque_serenity "Translate on GitHub") on GitHub.
 
-[Masque]: https://www.wowace.com/projects/masque ("Download Masque")
+[Masque]: https://www.wowace.com/projects/masque (Download Masque)
