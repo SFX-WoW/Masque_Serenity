@@ -3,23 +3,47 @@
 	This file is part of 'Masque: Serenity', an add-on for World of Warcraft. For license information,
 	please see the included License.txt file.
 
-	* File...: Serenity.lua
-	* Author.: StormFX
+	* File....: Skins.lua
+	* Authors.: StormFX, Sairen
 
+	Serenity Skins
 ]]
 
-local MSQ = LibStub("Masque", true)
+local MSQ = LibStub and LibStub("Masque", true)
 if not MSQ then return end
 
-local AddOn, _ = ...
-local Version = GetAddOnMetadata(AddOn, "Version")
+----------------------------------------
+-- Locals
+----------------------------------------
 
+local AddOn, Core = ...
+
+-- Locale
+local L = Core.Locale
+
+-- Skin Info
+local Version = GetAddOnMetadata(AddOn, "Version")
+local Authors = {"StormFX", "|cff999999Sairen|r"}
+local Websites = {
+	"https://github.com/stormfx/masque_serenity",
+	"https://www.wowace.com/projects/masque-serenity",
+	"https://www.curseforge.com/wow/addons/masque-serenity",
+	"https://www.wowinterface.com/downloads/info8875",
+}
+
+----------------------------------------
 -- Serenity
+----------------------------------------
+
 MSQ:AddSkin("Serenity", {
-	Author = "StormFX",
-	Version = Version,
 	Shape = "Circle",
-	Masque_Version = 70200,
+	Group = "Serenity",
+	Order = 1,
+	Version = Version,
+	Authors = Authors,
+	Websites = Websites,
+	Description = L["A port of the original Serenity skin by Sairen."],
+	Masque_Version = 80000,
 	Backdrop = {
 		Width = 44,
 		Height = 44,
@@ -35,15 +59,6 @@ MSQ:AddSkin("Serenity", {
 		Height = 44,
 		Color = {1, 0, 0, 0.3},
 		Texture = [[Interface\AddOns\Masque_Serenity\Textures\Round\Overlay]],
-	},
-	Cooldown = {
-		Width = 26,
-		Height = 26,
-		Color = {0, 0, 0, 0.7},
-	},
-	ChargeCooldown = {
-		Width = 26,
-		Height = 26,
 	},
 	Pushed = {
 		Width = 44,
@@ -108,6 +123,15 @@ MSQ:AddSkin("Serenity", {
 		Width = 44,
 		Height = 10,
 	},
+	Cooldown = {
+		Width = 26,
+		Height = 26,
+		Color = {0, 0, 0, 0.7},
+	},
+	ChargeCooldown = {
+		Width = 26,
+		Height = 26,
+	},
 	Shine = {
 		Width = 24,
 		Height = 24,
@@ -116,9 +140,15 @@ MSQ:AddSkin("Serenity", {
 	},
 }, true)
 
--- Serenity Redux
-MSQ:AddSkin("Serenity Redux", {
+----------------------------------------
+-- Serenity - Redux
+----------------------------------------
+
+MSQ:AddSkin("Serenity - Redux", {
+	Title = "Redux",
+	Order = 2,
 	Template = "Serenity",
+	Description = L["An alternate version of Serenity with modified Checked and Equipped textures."],
 	Checked = {
 		Width = 44,
 		Height = 44,
@@ -135,12 +165,20 @@ MSQ:AddSkin("Serenity Redux", {
 	},
 }, true)
 
+----------------------------------------
 -- Serenity - Square
+----------------------------------------
+
 MSQ:AddSkin("Serenity - Square", {
-	Author = "StormFX",
-	Version = Version,
 	Shape = "Square",
-	Masque_Version = 70200,
+	Group = "Serenity",
+	Title = "Square",
+	Order = 3,
+	Version = Version,
+	Authors = Authors,
+	Websites = Websites,
+	Description = L["A port of the original Serenity Square skin by Sairen."],
+	Masque_Version = 80000,
 	Backdrop = {
 		Width = 40,
 		Height = 40,
@@ -156,15 +194,6 @@ MSQ:AddSkin("Serenity - Square", {
 		Height = 40,
 		Color = {1, 0, 0, 0.3},
 		Texture = [[Interface\AddOns\Masque_Serenity\Textures\Square\Overlay]],
-	},
-	Cooldown = {
-		Width = 26,
-		Height = 26,
-		Color = {0, 0, 0, 0.7},
-	},
-	ChargeCooldown = {
-		Width = 24,
-		Height = 24,
 	},
 	Pushed = {
 		Width = 40,
@@ -232,6 +261,15 @@ MSQ:AddSkin("Serenity - Square", {
 		Width = 40,
 		Height = 10,
 	},
+	Cooldown = {
+		Width = 26,
+		Height = 26,
+		Color = {0, 0, 0, 0.7},
+	},
+	ChargeCooldown = {
+		Width = 24,
+		Height = 24,
+	},
 	Shine = {
 		Width = 26,
 		Height = 26,
@@ -240,9 +278,15 @@ MSQ:AddSkin("Serenity - Square", {
 	},
 }, true)
 
--- Serenity Redux - Square
-MSQ:AddSkin("Serenity Redux - Square", {
+----------------------------------------
+-- Serenity - Square Redux
+----------------------------------------
+
+MSQ:AddSkin("Serenity - Square Redux", {
+	Title = "Square Redux",
+	Order = 4,
 	Template = "Serenity - Square",
+	Description = L["An alternate version of Serenity Square with modified Checked and Equipped textures."],
 	Checked = {
 		Width = 40,
 		Height = 40,
