@@ -33,7 +33,7 @@ Install the package through your preferred add-on manager. You can also install 
 
 ## Credits
 
-- [Sairen](https://www.wowace.com/members/sairen2) for the original _Serenity_ skin.
+- Sairen for the original _Serenity_ skin.
 
 ## Feedback
 
