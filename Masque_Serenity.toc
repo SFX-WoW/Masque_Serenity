@@ -15,4 +15,8 @@
 ## X-Credits: Sairen
 ## X-WoWI-ID: 8875
 
+# Locales
+Locales.lua
+
+# Skins
 Skins.lua
