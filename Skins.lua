@@ -9,10 +9,10 @@
 	Serenity Skins
 ]]
 
+-- GLOBALS: GetAddOnMetadata, LibStub
+
 local MSQ = LibStub and LibStub("Masque", true)
 if not MSQ then return end
-
--- GLOBALS: GetAddOnMetadata
 
 ----------------------------------------
 -- Locals
