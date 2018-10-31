@@ -8,10 +8,10 @@ _**Note:** You must have [Masque][] installed to use these skins._
 
 This set contains the following skins:
 
-- **Serenity** - A port of the original Serenity skin by Sairen.
-- **Serenity - Redux** - An alternate version of Serenity with modified Checked and Equipped textures.
-- **Serenity - Square** - A port of the original Serenity Square skin by Sairen.
-- **Serenity - Square Redux** - An alternate version of Serenity Square with modified Checked and Equipped textures.
+- **Serenity** - A port of the original _Serenity_ skin by _Sairen_.
+- **Serenity - Redux** - An alternate version of _Serenity_ with modified Checked and Equipped textures.
+- **Serenity - Square** - A port of the original _Serenity Square_ skin by _Sairen_.
+- **Serenity - Square Redux** - An alternate version of _Serenity Square_ with modified Checked and Equipped textures.
 
 ## Installation
 
@@ -33,7 +33,7 @@ Install the package through your preferred add-on manager. You can also install 
 
 ## Credits
 
-- Sairen for the original _Serenity_ skin.
+- _Sairen_ for the original _Serenity_ skin.
 
 ## Feedback
 
@@ -41,6 +41,6 @@ For bug reports and suggestions, please use the [issue system](https://github.co
 
 ## Localization
 
-If you would like to help translate _Serenity_, please use the [localization system](https://www.wowace.com/projects/masque-serenity/localization "Translate on WoW Ace") on WoW Ace or [contribute directly](https://github.com/stormfx/masque_serenity "Translate on GitHub") on GitHub.
+To help translate _Serenity_, please use the [localization system](https://www.wowace.com/projects/masque-serenity/localization "Translate on WoW Ace") on WoW Ace or [contribute directly](https://github.com/stormfx/masque_serenity "Translate on GitHub") on GitHub.
 
 [Masque]: https://www.wowace.com/projects/masque (Download Masque)
