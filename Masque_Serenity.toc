@@ -1,5 +1,5 @@
 ## Interface: 80000
-## Title: Masque: |cffff8000Serenity|r
+## Title: Masque: Serenity
 ## Version: @project-version@
 ## Author: StormFX
 ## Dependencies: Masque
