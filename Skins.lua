@@ -126,8 +126,8 @@ MSQ:AddSkin("Serenity", {
 		Height = 10,
 	},
 	Cooldown = {
-		Width = 26,
-		Height = 26,
+		Width = 30,
+		Height = 30,
 		Color = {0, 0, 0, 0.7},
 	},
 	ChargeCooldown = {
@@ -269,8 +269,8 @@ MSQ:AddSkin("Serenity - Square", {
 		Color = {0, 0, 0, 0.7},
 	},
 	ChargeCooldown = {
-		Width = 24,
-		Height = 24,
+		Width = 26,
+		Height = 26,
 	},
 	Shine = {
 		Width = 26,
