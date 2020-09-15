@@ -5,19 +5,24 @@
 # ## Interface: 11305
 #@end-non-retail@
 ## Title: Masque: Serenity
-## Version: @project-version@
-## Author: StormFX
-## Dependencies: Masque
+
 ## Notes: Serenity skins for Masque.
 ## Notes-deDE: Serenity-Skin für Masque.
 ## Notes-esES: Skin Serenity para Masque.
 ## Notes-esMX: Skin Serenity para Masque.
+## Notes-frFR: Skins de Serenity pour Masque.
 ## Notes-itIT: Skin Serenity per Masque.
 ## Notes-ruRU: Скин Serenity для Masque.
 ## Notes-zhTW: Masque的Serenity皮膚。
-## X-Website: https://www.wowace.com/projects/masque-serenity
+
+## Version: @project-version@
+## Author: StormFX
+## Dependencies: Masque
+
+## X-Website: https://github.com/StormFX/Masque_Serenity
 ## X-Category: Interface Enhancements
 ## X-Credits: Sairen
+## X-Curse-Project-ID: 13601
 ## X-WoWI-ID: 8875
 
 # Locales
