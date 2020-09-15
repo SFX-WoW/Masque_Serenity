@@ -54,7 +54,7 @@ If you'd like to support the development of this and other projects, you can use
 [Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
 
 [World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
-[Masque]: https://www.wowace.com/projects/masque (Download Masque)
+[Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
 
 [Issue Tracker]: https://github.com/SFX-WoW/Masque_Serenity/issues (Report an Issue)
 [Localization System]: https://www.wowace.com/projects/masque-serenity/localization (Translate on WoW Ace)
