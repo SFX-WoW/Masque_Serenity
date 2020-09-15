@@ -8,8 +8,8 @@
 
 ## Notes: Serenity skins for Masque.
 ## Notes-deDE: Serenity-Skin für Masque.
-## Notes-esES: Skin Serenity para Masque.
 ## Notes-esMX: Skin Serenity para Masque.
+## Notes-esES: Skin Serenity para Masque.
 ## Notes-frFR: Skins de Serenity pour Masque.
 ## Notes-itIT: Skin Serenity per Masque.
 ## Notes-ruRU: Скин Serenity для Masque.
