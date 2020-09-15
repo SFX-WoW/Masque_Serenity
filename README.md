@@ -9,9 +9,9 @@
 
 This set includes the following skins:
 
-- **Serenity** - A port of the original _Serenity_ skin by _Sairen_.
+- **Serenity** - A port of the original _Serenity_ skin for _cyCircled_.
 - **Serenity - Redux** - An alternate version of **Serenity** with modified `Checked` and `Border` textures.
-- **Serenity - Square** - A port of the original _Serenity Square_ skin by _Sairen_.
+- **Serenity - Square** - A port of the original _Serenity Square_ skin for _cyCircled_.
 - **Serenity - Square Redux** - An alternate version of **Serenity - Square** with modified `Checked` and `Border` textures.
 
 ## Requirements
@@ -24,7 +24,7 @@ Install the package through your preferred add-on manager. Alternatively, you ca
 
 ## Credits
 
-- _Sairen_ for the original _Serenity_ skins.
+- [Sairen](https://www.wowace.com/members/_ForgeUser139308 "Sairen @ WoW Ace") for [cyCircled] and the **Serenity** skin.
 
 ## Feedback
 
@@ -67,6 +67,8 @@ If you'd like to support the development of this and other projects, you can use
 [GitHub]: https://github.com/SFX-WoW/Masque_Serenity (View on GitHub)
 [WoW Ace]: https://www.wowace.com/projects/masque-serenity (View on WoW Ace)
 [WoW Interface]: https://www.wowinterface.com/downloads/info8875 (View on WoW Interface)
+
+[cyCircled]: https://www.wowace.com/projects/cyCircled (cyCircled on WoW Ace)
 
 [Images]: #
 
