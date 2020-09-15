@@ -3,8 +3,8 @@
 	This file is part of 'Masque: Serenity', an add-on for World of Warcraft. For bug reports,
 	suggestions and license information, please visit https://github.com/SFX-WoW/Masque_Serenity.
 
-	* File....: Locales.lua
-	* Authors.: StormFX, Sairen
+	* File...: Locales.lua
+	* Author.: StormFX
 
 ]]
 
