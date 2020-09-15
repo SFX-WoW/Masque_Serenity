@@ -1,12 +1,13 @@
 --[[
 
-	This file is part of 'Masque: Serenity', an add-on for World of Warcraft. For license information,
-	please see the included License.txt file.
+	This file is part of 'Masque', an add-on for World of Warcraft. For bug reports,
+	suggestions and license information, please visit https://github.com/SFX-WoW/Masque_Serenity.
 
 	* File....: Skins.lua
 	* Authors.: StormFX, Sairen
 
 	Serenity Skins
+
 ]]
 
 -- GLOBALS: GetAddOnMetadata, LibStub
@@ -14,11 +15,11 @@
 local MSQ = LibStub and LibStub("Masque", true)
 if not MSQ then return end
 
+local AddOn, Core = ...
+
 ----------------------------------------
 -- Locals
-----------------------------------------
-
-local AddOn, Core = ...
+---
 
 -- Locale
 local L = Core.Locale
@@ -27,7 +28,7 @@ local L = Core.Locale
 local Version = GetAddOnMetadata(AddOn, "Version")
 local Authors = {"StormFX", "|cff999999Sairen|r"}
 local Websites = {
-	"https://github.com/stormfx/masque_serenity",
+	"https://github.com/SFX-WoW/Masque_Serenity",
 	"https://www.wowace.com/projects/masque-serenity",
 	"https://www.curseforge.com/wow/addons/masque-serenity",
 	"https://www.wowinterface.com/downloads/info8875",
@@ -35,7 +36,7 @@ local Websites = {
 
 ----------------------------------------
 -- Serenity
-----------------------------------------
+---
 
 MSQ:AddSkin("Serenity", {
 	Shape = "Circle",
@@ -144,7 +145,7 @@ MSQ:AddSkin("Serenity", {
 
 ----------------------------------------
 -- Serenity - Redux
-----------------------------------------
+---
 
 MSQ:AddSkin("Serenity - Redux", {
 	Title = "Redux",
@@ -169,7 +170,7 @@ MSQ:AddSkin("Serenity - Redux", {
 
 ----------------------------------------
 -- Serenity - Square
-----------------------------------------
+---
 
 MSQ:AddSkin("Serenity - Square", {
 	Shape = "Square",
@@ -282,7 +283,7 @@ MSQ:AddSkin("Serenity - Square", {
 
 ----------------------------------------
 -- Serenity - Square Redux
-----------------------------------------
+---
 
 MSQ:AddSkin("Serenity - Square Redux", {
 	Title = "Square Redux",
