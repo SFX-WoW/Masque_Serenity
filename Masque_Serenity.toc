@@ -19,10 +19,10 @@
 ## Author: StormFX
 ## Dependencies: Masque
 
-## X-Website: https://github.com/StormFX/Masque_Serenity
+## X-Website: https://github.com/SFX-WoW/Masque_Serenity
 ## X-Category: Interface Enhancements
 ## X-Credits: Sairen
-## X-Curse-Project-ID: 13601
+## X-Curse-Project-ID: 13600
 ## X-WoWI-ID: 8875
 
 # Locales
