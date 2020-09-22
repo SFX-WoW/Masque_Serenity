@@ -1,7 +1,6 @@
 package-as: Masque_Serenity
 
 required-dependencies:
-  - libstub
   - masque
 
 ignore:
