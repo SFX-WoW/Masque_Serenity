@@ -1,4 +1,4 @@
-## 8.3.0
+## 8.3.1
 
 - Added _Classic_ support.
 - Added a mask to some regions.
