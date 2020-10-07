@@ -1,6 +1,23 @@
 [![Build][SVG-Build]][Build]
 [![Masque][SVG-Masque]][Masque]
 [![Discord][SVG-Discord]][Discord]
+[![Sponsor][SVG-Sponsor]][Sponsor]
+[![PayPal][SVG-PayPal]][PayPal]
+[![Patreon][SVG-Patreon]][Patreon]
+
+<details>
+<summary><strong>Contents</strong></summary><p>
+
+- [About](#About "Go to About")
+- [Skins](#Skins "Go to Skins")
+- [Requirements](#Requirements "Go to Requirements")
+- [Installation](#Installation "Go to Installation")
+- [Credits](#Credits "Go to Credits")
+- [Feedback](#Feedback "Go to Feedback")
+- [Localization](#Localization "Go to Localization")
+- [Links](#Links "Go to Links")
+
+</p></details>
 
 ## [About][Top]
 
@@ -23,12 +40,12 @@ This add-on requires [Masque].
 
 Install the package through your preferred add-on manager or extract the archive to your add-ons directory.
 
-- Classic: `World of Warcraft\_classic_\Interface\AddOns`
-- Retail: `World of Warcraft\_retail_\Interface\AddOns`
+- **Classic:** `World of Warcraft\_classic_\Interface\AddOns`
+- **Retail:** `World of Warcraft\_retail_\Interface\AddOns`
 
 ## [Credits][Top]
 
-- [Sairen](https://www.wowace.com/members/_ForgeUser139308 "Sairen @ WoW Ace") for [cyCircled] and the **Serenity** skin.
+- [Sairen](https://www.wowace.com/members/_ForgeUser139308 "Sairen @ WoW Ace") for the original **Serenity** skin.
 
 ## [Feedback][Top]
 
@@ -37,13 +54,6 @@ For bug reports and suggestions, use the [issue tracker]. Direct any questions o
 ## [Localization][Top]
 
 To help translate this add-on, use the [localization system] on WoW Ace. Alternatively, you can use the [issue tracker].
-
-## [Support][Top]
-
-If you'd like to support the development of this and other projects, you can use one of the options below.
-
-- [Donate via PayPal][Donate]
-- [Sponsor on GitHub][Sponsor]
 
 ## [Links][Top]
 
@@ -55,29 +65,29 @@ If you'd like to support the development of this and other projects, you can use
 [Links]: #
 
 [Build]: https://github.com/SFX-WoW/Masque_Serenity/actions?query=workflow%3ARelease (Build Status)
+[Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
 [Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
+[Sponsor]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
+[PayPal]: https://www.paypal.me/stormfxi (Donate via PayPal)
+[Patreon]: https://www.patreon.com/stormfx (Become a Patron)
 
 [Top]: #Top (Top of the Page)
 
 [World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
-[Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
 
 [Issue Tracker]: https://github.com/SFX-WoW/Masque_Serenity/issues (Report an Issue)
 [Localization System]: https://www.wowace.com/projects/masque-serenity/localization (Translate on WoW Ace)
-[Wiki]: https://github.com/SFX-WoW/Masque_Serenity/wiki (View the Wiki)
-
-[Donate]: https://www.paypal.me/stormfxi (Donate via PayPal)
-[Sponsor]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 
 [CurseForge]: https://www.curseforge.com/wow/addons/masque-serenity (View on CurseForge)
 [GitHub]: https://github.com/SFX-WoW/Masque_Serenity (View on GitHub)
 [WoW Ace]: https://www.wowace.com/projects/masque-serenity (View on WoW Ace)
 [WoW Interface]: https://www.wowinterface.com/downloads/info8875 (View on WoW Interface)
 
-[cyCircled]: https://www.wowace.com/projects/cyCircled (cyCircled on WoW Ace)
-
 [Images]: #
 
 [SVG-Build]: https://img.shields.io/github/workflow/status/SFX-WoW/Masque_Serenity/Release?label=Build&logo=github&logoColor=fff&style=flat-square
-[SVG-Discord]: https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=fff&style=flat-square
 [SVG-Masque]: https://img.shields.io/endpoint?url=https://wow.stormfx.com/img/svg/masque-skin.json
+[SVG-Discord]: https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=fff&style=flat-square
+[SVG-Sponsor]: https://img.shields.io/badge/Sponsor-555?logo=github&logoColor=fff&style=flat-square
+[SVG-PayPal]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/paypal.json
+[SVG-Patreon]: https://img.shields.io/badge/Patreon-f96854?logo=patreon&logoColor=fff&style=flat-square
