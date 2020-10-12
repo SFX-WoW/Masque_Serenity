@@ -1,7 +1,3 @@
-## 8.3.2
+## 9.0.0
 
-- Added support for the following regions:
-  - `JunkIcon` - Decreased the size.
-  - `QuestBorder` - Added a new texture.
-  - `UpgradeIcon` - Decreased the size and updated the draw level.
-- Updated the `Border` texture.
+- Updated the `Interface` version for _Retail_ to `90001`.
