@@ -39,7 +39,7 @@ local Websites = {
 ---
 
 MSQ:AddSkin("Serenity", {
-	Masque_Version = 90000,
+	API_VERSION = 90002,
 	Shape = "Circle",
 
 	-- Info
