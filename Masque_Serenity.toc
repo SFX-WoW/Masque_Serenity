@@ -23,6 +23,7 @@
 ## X-Category: Interface Enhancements
 ## X-Credits: Sairen
 ## X-Curse-Project-ID: 13601
+## X-Wago-ID: kaNePnG2
 ## X-WoWI-ID: 8875
 
 # Locales
