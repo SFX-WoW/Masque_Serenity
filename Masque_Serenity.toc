@@ -1,11 +1,7 @@
-#@retail@
 ## Interface: 90005
-#@end-retail@
-#@non-retail@
-# ## Interface: 11306
-#@end-non-retail@
-## Title: Masque: Serenity
+## Interface-Classic: 11307
 
+## Title: Masque: Serenity
 ## Notes: Serenity skins for Masque.
 ## Notes-deDE: Serenity-Skin für Masque.
 ## Notes-esMX: Skins Serenity para Masque.
