@@ -1,4 +1,4 @@
-## 9.0.6
+## 9.0.7
 
 - Added support for _Burning Crusade Classic_.
 - Added support for Wago.io.
