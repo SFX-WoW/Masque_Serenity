@@ -55,7 +55,7 @@ To help translate this add-on, use the [localization system] on WoW Ace. Alterna
 
 [Links]: #
 
-[Build]: https://github.com/SFX-WoW/Masque_Serenity/actions?query=workflow%3ARelease (Build Status)
+[Build]: https://github.com/SFX-WoW/Masque_Serenity/actions/workflows/build-release.yml (Build Status)
 [Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
 [Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
 [Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
@@ -77,7 +77,7 @@ To help translate this add-on, use the [localization system] on WoW Ace. Alterna
 
 [Images]: #
 
-[SVG-Build]: https://img.shields.io/github/workflow/status/SFX-WoW/Masque_Serenity/Release?label=Build&logo=github&logoColor=fff&style=flat-square
+[SVG-Build]: https://img.shields.io/github/workflow/status/SFX-WoW/Masque_Serenity/Build%20Release?label=Build&logo=github&logoColor=fff&style=flat-square
 [SVG-Masque]: https://img.shields.io/endpoint?url=https://wow.stormfx.com/img/svg/masque-skin.json
 [SVG-Discord]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/discord.json
 [SVG-Twitter]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/twitter.json
