@@ -32,7 +32,7 @@ Install the package through your preferred add-on manager or extract the archive
 
 ## [Credits][Top]
 
-- [Sairen](https://www.wowace.com/members/_ForgeUser139308 "Sairen @ WoW Ace") for the original **Serenity** skin.
+- [Sairen](https://www.curseforge.com/members/_ForgeUser139308 "Sairen @ CurseForge") for the original _Serenity_ skin.
 
 ## [Feedback][Top]
 
@@ -40,7 +40,7 @@ For bug reports and suggestions, use the [issue tracker]. Direct any questions o
 
 ## [Localization][Top]
 
-To help translate this add-on, use the [localization system] on WoW Ace. Alternatively, you can use the [issue tracker].
+To help translate this add-on, use the [localization system] on CurseForge. Alternatively, you can use the [issue tracker].
 
 ## [Links][Top]
 
@@ -50,7 +50,6 @@ To help translate this add-on, use the [localization system] on WoW Ace. Alterna
   - [GitHub]
   - [CurseForge]
   - [Wago.io]
-  - [WoW Ace]
   - [WoW Interface]
 
 [Links]: #
@@ -65,12 +64,11 @@ To help translate this add-on, use the [localization system] on WoW Ace. Alterna
 [World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
 
 [Issue Tracker]: https://github.com/SFX-WoW/Masque_Serenity/issues (Report an Issue)
-[Localization System]: https://www.wowace.com/projects/masque-serenity/localization (Translate on WoW Ace)
+[Localization System]: https://www.curseforge.com/wow/addons/masque-serenity/localization (Translate on CurseForge)
 
 [CurseForge]: https://www.curseforge.com/wow/addons/masque-serenity (View on CurseForge)
 [GitHub]: https://github.com/SFX-WoW/Masque_Serenity (View on GitHub)
 [Wago.io]: https://addons.wago.io/addons/masque-serenity (View on Wago.io)
-[WoW Ace]: https://www.wowace.com/projects/masque-serenity (View on WoW Ace)
 [WoW Interface]: https://www.wowinterface.com/downloads/info8875 (View on WoW Interface)
 
 [Top]: #Top (Top of the Page)
