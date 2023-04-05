@@ -16,7 +16,7 @@
 
 ## X-Category: Interface Enhancements
 ## X-Credits: Sairen
-## X-Discord: https://discord.gg/DDVqkd6
+## X-Discord: https://discord.gg/7MTWRgDzz8
 ## X-Website: https://github.com/SFX-WoW/Masque_Serenity
 
 ## X-Curse-Project-ID: 13601
