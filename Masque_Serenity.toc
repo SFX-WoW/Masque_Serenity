@@ -1,9 +1,11 @@
 ## Interface: 100007
 
 ## Author: StormFX
-## Dependencies: Masque
 ## Title: Masque: Serenity
 ## Version: @project-version@
+
+## Dependencies: Masque
+## IconTexture: Interface\AddOns\Masque_Serenity\Textures\Icon
 
 ## Notes: Serenity skins for Masque.
 ## Notes-deDE: Serenity-Skin für Masque.
