@@ -22,14 +22,14 @@ local AddOn, Core = ...
 local L = Core.Locale
 
 ----------------------------------------
--- Local
+-- Locals
 ---
 
 local API_VERSION = 100100
 
 -- Skin Info
-local Version = "@project-version@"
 local Authors = {"StormFX", "|cff999999Sairen|r"}
+local Version = "@project-version@"
 local Websites = {
 	"https://github.com/SFX-WoW/Masque_Serenity",
 	"https://www.curseforge.com/wow/addons/masque-serenity",
