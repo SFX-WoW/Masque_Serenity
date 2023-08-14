@@ -514,6 +514,10 @@ MSQ:AddSkin("Serenity", {
 		OffsetY = 0,
 		-- SetAllPoints = true,
 	},
+	SpellAlert = {
+		Width = 30,
+		Height = 30,
+	},
 })
 
 ----------------------------------------
@@ -1093,6 +1097,10 @@ MSQ:AddSkin("Serenity - Square", {
 		OffsetX = 0,
 		OffsetY = 0,
 		-- SetAllPoints = true,
+	},
+	SpellAlert = {
+		Width = 30,
+		Height = 30,
 	},
 })
 
