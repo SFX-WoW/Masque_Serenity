@@ -25,7 +25,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 100105
+local API_VERSION = 100207
 
 -- Skin Info
 local Authors = {"StormFX", "|cff999999Sairen|r"}
@@ -626,7 +626,7 @@ MSQ:AddSkin("Serenity - Redux", {
 
 MSQ:AddSkin("Serenity - Square", {
 	API_VERSION = API_VERSION,
-	Shape = "Square",
+	Shape = "Modern",
 
 	-- Info
 	Authors = Authors,
@@ -1099,8 +1099,8 @@ MSQ:AddSkin("Serenity - Square", {
 		-- SetAllPoints = true,
 	},
 	SpellAlert = {
-		Width = 30,
-		Height = 30,
+		Width = 28,
+		Height = 28,
 	},
 })
 
