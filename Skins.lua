@@ -566,8 +566,12 @@ MSQ:AddSkin("Serenity", {
 		Width = 32,
 		Height = 32,
 		Classic = {
-			Height = 30,
-			Width = 30,
+			Height = 28,
+			Width = 28,
+		},
+		Modern = {
+			Height = 28,
+			Width = 28,
 		},
 		Thin = {
 			Height = 30,
@@ -1210,8 +1214,12 @@ MSQ:AddSkin("Serenity - Square", {
 		Width = 32,
 		Height = 32,
 		Classic = {
-			Height = 28,
-			Width = 28,
+			Height = 26,
+			Width = 26,
+		},
+		Modern = {
+			Height = 26,
+			Width = 26,
 		},
 		Thin = {
 			Height = 28,
