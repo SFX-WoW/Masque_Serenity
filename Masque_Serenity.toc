@@ -4,6 +4,7 @@
 ## Title: Masque: Serenity
 ## Version: @project-version@
 
+## Category: Masque
 ## Dependencies: Masque
 ## IconTexture: Interface\AddOns\Masque_Serenity\Textures\Icon
 
