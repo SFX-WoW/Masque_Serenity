@@ -25,7 +25,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 110107
+local API_VERSION = 110207
 
 -- Skin Info
 local Authors = {"StormFX", "|cff999999Sairen|r"}
@@ -559,10 +559,14 @@ MSQ:AddSkin("Serenity", {
 		OffsetY = 0,
 		-- SetAllPoints = nil,
 	},
-	-- [ SpellAlert ]
+	-- [ SpellAlerts ]
 	SpellAlert = {
 		Width = 32,
 		Height = 32,
+		AltGlow = {
+			Height = 41,
+			Width = 41,
+		},
 		Classic = {
 			Height = 28,
 			Width = 28,
@@ -571,10 +575,14 @@ MSQ:AddSkin("Serenity", {
 			Height = 28,
 			Width = 28,
 		},
-		Thin = {
-			Height = 30,
-			Width = 30,
+		["Modern-Lite"] = {
+			Height = 29,
+			Width = 29,
 		},
+	},
+	AssistedCombatHighlight = {
+		Width = 41,
+		Height = 41,
 	},
 })
 
@@ -680,6 +688,8 @@ MSQ:AddSkin("Serenity - Redux", {
 	-- AutoCastShine = Template.AutoCastShine,
 	-- Cooldown = Template.Cooldown,
 	-- ChargeCooldown = Template.ChargeCooldown,
+	-- SpellAlert = Template.SpellAlert,
+	-- AssistedCombatHighlight = Template.AssistedCombatHighlight,
 })
 
 ----------------------------------------
@@ -1205,10 +1215,14 @@ MSQ:AddSkin("Serenity - Square", {
 		OffsetY = 0,
 		-- SetAllPoints = true,
 	},
-	-- [ SpellAlert ]
+	-- [ SpellAlerts ]
 	SpellAlert = {
 		Width = 32,
 		Height = 32,
+		AltGlow = {
+			Height = 38,
+			Width = 38,
+		},
 		Classic = {
 			Height = 26,
 			Width = 26,
@@ -1217,10 +1231,14 @@ MSQ:AddSkin("Serenity - Square", {
 			Height = 26,
 			Width = 26,
 		},
-		Thin = {
-			Height = 28,
-			Width = 28,
+		["Modern-Lite"] = {
+			Height = 27,
+			Width = 27,
 		},
+	},
+	AssistedCombatHighlight = {
+		Width = 38,
+		Height = 38,
 	},
 })
 
@@ -1326,4 +1344,6 @@ MSQ:AddSkin("Serenity - Square Redux", {
 	-- AutoCastShine = Template.AutoCastShine,
 	-- Cooldown = Template.Cooldown,
 	-- ChargeCooldown = Template.ChargeCooldown,
+	-- SpellAlert = Template.SpellAlert,
+	-- AssistedCombatHighlight = Template.AssistedCombatHighlight,
 })
