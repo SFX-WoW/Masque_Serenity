@@ -1,13 +1,11 @@
-## 11.2.8
+## 12.0.5
 
 ### Release Notes
 
-- Cleaned up and optimized the skin definitions.
-- Updated the `Interface` versions: (#68)
-  - **The War Within**: `110207`
-  - **Midnight** PTR: `120000`
-  - **Midnight** Beta: `120001`
-  - **Mists of Pandaria Classic**: `50503`
-- Updated `zhTW`. (BNS333)(#69)
+- Updated the `Interface` versions: (#70)
+  - **The War Within**: `120005`
+  - **The Burning Crusade Classic**: `20505`
+  - **Wrath of the Lich King Titan**: `38001`
+- Updated `ptBR`. (Denshi_KRS)(#71)
 
 [Release History](https://github.com/SFX-WoW/Masque_Serenity/wiki/History)
